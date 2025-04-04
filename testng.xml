@@ -1,0 +1,7 @@
+<suite name="ElPaisSuite" parallel="tests" thread-count="5">
+    <test name="ElPaisTest">
+        <classes>
+            <class name="tests.ElPaisTest"/>
+        </classes>
+    </test>
+</suite>
